@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @martin-coding
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning system administration (with GNU/Linux)
 - 📫 How to reach me martin.coding.public@gmail.com
 
 <!---
